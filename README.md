@@ -32,4 +32,5 @@ The sessions are listed below along with links to the slide decks.
 * [Translating Your Work For Industry]()
 * [Becoming a Data Scientist]()
 
+* [Link to Sketch of Materials](https://drive.google.com/drive/folders/1_Jy6yYBZKd_OWl904fkinWlqEZVktBuE?usp=sharing)
 
