@@ -9,6 +9,24 @@ The original abstract for this workshop can be found [here](https://docs.google.
 
 There is also a [blog post here]() that covers some of the materials.
 
+## To Do 
+
+### Essential 
+
+* [  ] Type Outline Each Sketch 
+* [  ] Create Slide Template (Viridis, Roboto) in Google Could
+* [  ] Transfer Outlines to Slides
+* [  ] Create Resources Markdown 
+* [  ] Create Each Activity Markdown 
+* [  ] Create Long Checklist for Participants Markdown 
+* [  ] Create Google Drive Exit Ticket 
+
+### Non-Essential 
+
+* [  ] Write complementary blog post for each session 
+* [  ] Create bookdown for resources 
+* [  ] Transfer Materials to bookdown 
+
 ## Persona
 
 Is this workshop for you? 
@@ -31,6 +49,5 @@ The sessions are listed below along with links to the slide decks.
 * [Networking (How to Make More Friends)]()
 * [Translating Your Work For Industry]()
 * [Becoming a Data Scientist]()
-
 * [Link to Sketch of Materials](https://drive.google.com/drive/folders/1_Jy6yYBZKd_OWl904fkinWlqEZVktBuE?usp=sharing)
 
