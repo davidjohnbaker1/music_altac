@@ -23,9 +23,9 @@ There is also a [blog post here]() that covers some of the materials.
 
 ### Non-Essential 
 
-* [  ] Write complementary blog post for each session 
-* [  ] Create bookdown for resources 
-* [  ] Transfer Materials to bookdown 
+* [ ] Write complementary blog post for each session 
+* [ ] Create bookdown for resources 
+* [ ] Transfer Materials to bookdown 
 
 ## Persona
 
