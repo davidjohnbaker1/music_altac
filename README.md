@@ -13,13 +13,13 @@ There is also a [blog post here]() that covers some of the materials.
 
 ### Essential 
 
-* [  ] Type Outline Each Sketch 
-* [  ] Create Slide Template (Viridis, Roboto) in Google Could
-* [  ] Transfer Outlines to Slides
-* [  ] Create Resources Markdown 
-* [  ] Create Each Activity Markdown 
-* [  ] Create Long Checklist for Participants Markdown 
-* [  ] Create Google Drive Exit Ticket 
+* [ ] Type Outline Each Sketch 
+* [ ] Create Slide Template (Viridis, Roboto) in Google Could
+* [ ] Transfer Outlines to Slides
+* [ ] Create Resources Markdown 
+* [ ] Create Each Activity Markdown 
+* [ ] Create Long Checklist for Participants Markdown 
+* [ ] Create Google Drive Exit Ticket 
 
 ### Non-Essential 
 
