@@ -44,7 +44,7 @@ Is this workshop for you?
 The workshop will last approximently two hours and consist of five different sessions.
 The sessions are listed below along with links to the slide decks.
 
-* [Value and Values Inside and Outside of the Ivory Tower]()
+* [Value and Values Inside and Outside of the Ivory Tower](https://docs.google.com/presentation/d/1Tf7dqmir1PqC_l1YftaNyK4kWvhgin-RJysxvoG3PsI/edit?usp=sharing)
 * [Online Personas: Twitter, LinkedIn, Blogs, and Github]()
 * [Networking (How to Make More Friends)]()
 * [Translating Your Work For Industry]()
