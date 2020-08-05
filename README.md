@@ -27,6 +27,14 @@ There is also a [blog post here]() that covers some of the materials.
 * [ ] Create bookdown for resources 
 * [ ] Transfer Materials to bookdown 
 
+
+## Participant Questions to Address
+
+* Landing internship or marketing self for data science after training 
+* Questions about post-doc in current recession ("economy" for big business is very different) 
+* General interest about non-academic reserach options 
+* Are my coding skills decent enough? 
+
 ## Persona
 
 Is this workshop for you? 
