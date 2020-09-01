@@ -7,9 +7,21 @@ This repo is currently under development in preparation for a possible delivery 
 
 The original abstract for this workshop can be found [here](https://docs.google.com/document/d/1HXHRucgK_h5rUuGephkWAX2yfW5nAPgehZJ4bC7_R4E/edit?usp=sharing)
 
-There is also a [blog post here]() that covers some of the materials.
+There is also a [blog post here](https://davidjohnbaker.rbind.io/post/life-after-a-phd-in-systematic-musicology-how-you-might-prepare-for-industry/) that covers some of the materials.
 
 ## To Do 
+
+What to Cover (based on 28 respondants)
+
+* How to land internship outside of academia 
+* research outside of academia 
+* Coding good enough?
+* employment outside of academia
+* Idea of real world application and selling that 
+* Translating research 
+* idea of transitioning 
+* lots of esp interest in the data science part (make it clear that they have a lot of these skills)
+* Clear that this is what worked for me, take with a grain of salt 
 
 ### Essential 
 
