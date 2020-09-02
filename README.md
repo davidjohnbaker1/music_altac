@@ -65,9 +65,9 @@ The workshop will last approximently two hours and consist of five different ses
 The sessions are listed below along with links to the slide decks.
 
 * [Value and Values Inside and Outside of the Ivory Tower](https://docs.google.com/presentation/d/1Tf7dqmir1PqC_l1YftaNyK4kWvhgin-RJysxvoG3PsI/edit?usp=sharing)
-* [Online Personas: Twitter, LinkedIn, Blogs, and Github]()
-* [Networking (How to Make More Friends)]()
-* [Translating Your Work For Industry]()
-* [Becoming a Data Scientist]()
+* [Online Personas: Twitter, LinkedIn, Blogs, and Github](https://docs.google.com/presentation/d/19loURzGxI9_oIrh3nwRhiQJB0FvM3n9EQRDS3EgwtYg/edit?usp=sharing)
+* [Networking (How to Make More Friends)](https://docs.google.com/presentation/d/1uODVc9LwcVmEv3iOQVnrXhxhSXIzr87K38pPZGTBTp8/edit?usp=sharing)
+* [Translating Your Work For Industry](https://docs.google.com/presentation/d/11CgePHfpk4OwQC2sk66SpoeGfnQXpQHah9kcTg4mpHg/edit?usp=sharing)
+* [Becoming a Data Scientist](https://docs.google.com/presentation/d/1W6FAJB71Rz4q0N7Hf_fLH-M9ae0mpg0OsgktIYKapGo/edit?usp=sharing)
 * [Link to Sketch of Materials](https://drive.google.com/drive/folders/1_Jy6yYBZKd_OWl904fkinWlqEZVktBuE?usp=sharing)
 
