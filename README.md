@@ -9,44 +9,6 @@ The original abstract for this workshop can be found [here](https://docs.google.
 
 There is also a [blog post here](https://davidjohnbaker.rbind.io/post/life-after-a-phd-in-systematic-musicology-how-you-might-prepare-for-industry/) that covers some of the materials.
 
-## To Do 
-
-What to Cover (based on 28 respondants)
-
-* How to land internship outside of academia 
-* research outside of academia 
-* Coding good enough?
-* employment outside of academia
-* Idea of real world application and selling that 
-* Translating research 
-* idea of transitioning 
-* lots of esp interest in the data science part (make it clear that they have a lot of these skills)
-* Clear that this is what worked for me, take with a grain of salt 
-
-### Essential 
-
-* [ ] Type Outline Each Sketch 
-* [ ] Create Slide Template (Viridis, Roboto) in Google Could
-* [ ] Transfer Outlines to Slides
-* [ ] Create Resources Markdown 
-* [ ] Create Each Activity Markdown 
-* [ ] Create Long Checklist for Participants Markdown 
-* [ ] Create Google Drive Exit Ticket 
-
-### Non-Essential 
-
-* [ ] Write complementary blog post for each session 
-* [ ] Create bookdown for resources 
-* [ ] Transfer Materials to bookdown 
-
-
-## Participant Questions to Address
-
-* Landing internship or marketing self for data science after training 
-* Questions about post-doc in current recession ("economy" for big business is very different) 
-* General interest about non-academic reserach options 
-* Are my coding skills decent enough? 
-
 ## Persona
 
 Is this workshop for you? 
