@@ -31,5 +31,4 @@ The sessions are listed below along with links to the slide decks.
 * [Networking (How to Make More Friends)](https://docs.google.com/presentation/d/1uODVc9LwcVmEv3iOQVnrXhxhSXIzr87K38pPZGTBTp8/edit?usp=sharing)
 * [Translating Your Work For Industry](https://docs.google.com/presentation/d/11CgePHfpk4OwQC2sk66SpoeGfnQXpQHah9kcTg4mpHg/edit?usp=sharing)
 * [Becoming a Data Scientist](https://docs.google.com/presentation/d/1W6FAJB71Rz4q0N7Hf_fLH-M9ae0mpg0OsgktIYKapGo/edit?usp=sharing)
-* [Link to Sketch of Materials](https://drive.google.com/drive/folders/1_Jy6yYBZKd_OWl904fkinWlqEZVktBuE?usp=sharing)
 
